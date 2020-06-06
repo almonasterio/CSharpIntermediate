@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharpIntermediate
+namespace CSharpIntermediate.Classes
 {
 
     public class Stopwatch

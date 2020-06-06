@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CSharpIntermediate/CSharpIntermediate.csproj": {}
+    "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/CSharpIntermediate.csproj": {}
   },
   "projects": {
-    "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CSharpIntermediate/CSharpIntermediate.csproj": {
+    "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/CSharpIntermediate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CSharpIntermediate/CSharpIntermediate.csproj",
+        "projectUniqueName": "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/CSharpIntermediate.csproj",
         "projectName": "CSharpIntermediate",
-        "projectPath": "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CSharpIntermediate/CSharpIntermediate.csproj",
+        "projectPath": "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/CSharpIntermediate.csproj",
         "packagesPath": "/Users/alvaro/.nuget/packages/",
-        "outputPath": "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CSharpIntermediate/obj/",
+        "outputPath": "/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alvaro/.nuget/NuGet/NuGet.Config"

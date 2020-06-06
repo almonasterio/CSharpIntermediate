@@ -1,0 +1,12 @@
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.deps.json
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.runtimeconfig.json
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.runtimeconfig.dev.json
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.dll
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/bin/Debug/netcoreapp3.1/CSharpIntermediate.pdb
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csprojAssemblyReference.cache
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfoInputs.cache
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.AssemblyInfo.cs
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.csproj.CoreCompileInputs.cache
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.dll
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.pdb
+/Users/alvaro/Desktop/C#/MOSH C#/C#Intermediate/CsharpIntermediate/obj/Debug/netcoreapp3.1/CSharpIntermediate.genruntimeconfig.cache
